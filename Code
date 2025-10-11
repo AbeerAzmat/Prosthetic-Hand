@@ -1,0 +1,4 @@
+code/
+├── arduino_control.ino → [NOT INCLUDED]
+├── matlab_motor_calibration.m → [NOT INCLUDED]
+├── README.md → Explains code logic 
