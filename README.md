@@ -2,7 +2,7 @@
 
 ## 📘 Project Overview
 A **low-cost, research-oriented prosthetic hand** that utilizes **EMG signals acquired from OYMotion sensors** to control **motor-driven finger movements through an Arduino-based control system**.  
-This project was developed as part of a **charity initiative funded by HASWA (Health andSocial Welfare Association)**, aimed at providing **affordable, functional prosthetic solutions** for individuals with upper-limb disabilities in Pakistan.
+This project was developed as part of a **charity initiative funded by HASWA (Health and Social Welfare Association)**, aimed at providing **affordable, functional prosthetic solutions** for individuals with upper-limb disabilities in Pakistan.
 
 ---
 
@@ -47,6 +47,7 @@ Arduino Nano (Signal Processing)
 Motor Driver Circuit
         ↓
 Prosthetic Finger Movement
+```text
 
 ---
 
