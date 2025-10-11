@@ -37,7 +37,6 @@ This project was developed as part of a **charity initiative funded by HASWA (He
 ---
 
 ## 🧩 System Architecture
-```text
 Muscle Signal (EMG Sensor)
         ↓
 Signal Amplification & Filtering
@@ -47,7 +46,6 @@ Arduino Nano (Signal Processing)
 Motor Driver Circuit
         ↓
 Prosthetic Finger Movement
-```text
 
 ---
 
