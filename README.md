@@ -38,13 +38,21 @@ This project was developed as part of a **charity initiative funded by HASWA (He
 
 ## 🧩 System Architecture
 Muscle Signal (EMG Sensor)
+
         ↓
+        
 Signal Amplification & Filtering
+
         ↓
+        
 Arduino Nano (Signal Processing)
+
         ↓
+        
 Motor Driver Circuit
+
         ↓
+        
 Prosthetic Finger Movement
 
 ---
@@ -56,14 +64,23 @@ Prosthetic Finger Movement
 ## 📁 Project Structure
 prosthetic-hand/
 ├── code/
+
 │   ├── arduino_control.ino
+
 │   └── matlab_motor_calibration.m
+
 │
+
 ├── media/
+
 │   ├── hand_demo_image1.jpg
+
 │   ├── hand_demo_image2.jpg
+
 │   └── demo_video.mp4
+
 │
+
 └── README.md
 
 ---
@@ -80,8 +97,8 @@ Human-centered engineering approach driven by empathy and accessibility
 
 ---
 
-## 👤 **Author**
-Abeer Azmat &, Muhammad Asad Khan “This project was developed as part of my charity for Disable people and children.”
+## 👤 **Authors**
+Abeer Azmat & Muhammad Asad Khan “This project was developed as part of charity for Disable people and children.”
 
 ---
 
